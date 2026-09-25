@@ -1,0 +1,83 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1789907588419,
+      "tag": "0000_table_rush_foundation",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1789908338865,
+      "tag": "0001_business_profile_fields",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1789938955239,
+      "tag": "0002_tables_menu_qr",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1790019382801,
+      "tag": "0003_orders_checkout_system",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1790019968826,
+      "tag": "0004_online_payments",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1790020461799,
+      "tag": "0005_realtime_orders",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "7",
+      "when": 1790021099822,
+      "tag": "0006_game_foundation",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "7",
+      "when": 1790022101741,
+      "tag": "0007_public_venues_view",
+      "breakpoints": true
+    },
+    {
+      "idx": 8,
+      "version": "7",
+      "when": 1790022235694,
+      "tag": "0008_is_active_business_helper",
+      "breakpoints": true
+    },
+    {
+      "idx": 9,
+      "version": "7",
+      "when": 1790022462581,
+      "tag": "0009_venue_column_grants",
+      "breakpoints": true
+    },
+    {
+      "idx": 10,
+      "version": "7",
+      "when": 1790061581226,
+      "tag": "0010_mumbai_directory",
+      "breakpoints": true
+    }
+  ]
+}
